@@ -1,7 +1,3 @@
-![alt-text](beelineAPP.gif)
-![App photo](IMG_3284.PNG)
-![App photo](IMG_1F7E9CFB5978-1.jpeg)
-<div></div>
 <img src="beelineAPP.gif" width="50px">
 <div style="display: flex; flex-direction: row; align-items: center;">
     <div style="flex: 50%;">
