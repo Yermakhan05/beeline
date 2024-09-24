@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
-    <div style="flex: 50%;">
+    <div style="display: flex; flex-direction: row;">
         <img src="IMG_3284.PNG" alt="Image 1" width="200"/>
         <img src="beelineAPP.gif" alt="GIF" width="250"/>
     </div>
