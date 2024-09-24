@@ -1,6 +1,8 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
     <div style="display: flex; flex-direction: row;">
+        #before
         <img src="IMG_3284.PNG" alt="Image 1" width="200"/>
+        #after
         <img style="margin: 2000px;" src="beelineAPP.gif" alt="GIF" width="250"/>
     </div>
     <div style="flex: 50%; text-align: right;">
