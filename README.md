@@ -1,4 +1,3 @@
-<img src="beelineAPP.gif" width="50px">
 <div style="display: flex; flex-direction: row; align-items: center;">
     <div style="flex: 50%;">
         <img src="IMG_3284.PNG" alt="Image 1" width="200"/>
